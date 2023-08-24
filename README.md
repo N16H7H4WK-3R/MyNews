@@ -23,7 +23,7 @@ Follow these steps to set up and run the MyNews app on your local machine:
 1. Clone this repository to your local environment:
 
    ```bash
-   git clone https://github.com/your-username/MyNews.git
+   git clone https://github.com/N16H7H4WK-3R/MyNews
    ```
 
 
